@@ -1,6 +1,6 @@
 # Apple Home Page
 
-> For the purpose of educational practical exhibition, In our first ruby project, we applied the Sorting algorithim concept known as Bubble Sort. as part of Microverse Technical curriculum. 
+> For the purpose of educational practical exhibition, In our first ruby project, we applied the Sorting algorithim concept known as Buble Sort. as part of Microverse Technical curriculum. 
 
 ![screenshot]()
 
