@@ -1,4 +1,3 @@
-
 def bubble_sort(arr)
   lengthofArr = arr.length - 1;
   loop do 
@@ -30,10 +29,6 @@ def bubble_sort_by(arr)
         if value >= 1 
           arr[item], arr[item + 1] = arr[item + 1], arr[item]
           swap = true
-        elsif value <= -1
-          break
-        else
-          break
         end
       end
       break if not swap

@@ -1,8 +1,6 @@
-# Apple Home Page
+# Ruby Bubble Sort
 
 > For the purpose of educational practical exhibition, In our first ruby project, we applied the Sorting algorithim concept known as Buble Sort. as part of Microverse Technical curriculum. 
-
-![screenshot]()
 
 
 ## Built With
@@ -11,7 +9,7 @@
 - Visual Studio Code, Git and Github.
 
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link](https://repl.it/repls/LovableHealthyVendor#main.rb)
 
 ## Authors
 
@@ -25,7 +23,7 @@
 
 - Github: [@Janluc](https://github.com/Janluc)   
 - Twitter: [@Janluc123](https://twitter.com/Janluc123)
-- Linkedin: [linkedin](https://www.linkedin.com/in/janluc-saneaux-91707a1b4/ 
+- Linkedin: [linkedin](https://www.linkedin.com/in/janluc-saneaux-91707a1b4/) 
 
 
 ## 🤝 Contributing
@@ -43,7 +41,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
