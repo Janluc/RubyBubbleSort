@@ -11,7 +11,7 @@ def bubble_sort(arr)
 
     break unless swap
   end
-  return arr
+  arr
 end
 
 arr = [49, 22, 1, 55, 104, 7]
@@ -34,7 +34,7 @@ def bubble_sort_by(arr)
 
     break unless swap
   end
-  return arr
+  arr
 end
 
 bubble_sort_by(arr) do |left, right|
