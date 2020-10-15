@@ -18,7 +18,7 @@ arr = [49, 22, 1, 55, 104, 7]
 
 bubble_sort(arr)
 
-arr = %w(hello hey hi)
+arr = %w[hello hey hi]
 
 def bubble_sort_by(arr)
   length_of_arr = arr.length - 1
